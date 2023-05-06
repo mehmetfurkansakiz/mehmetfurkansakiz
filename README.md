@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehmetfurkansakiz&label=Profile%20views&color=0e75b6&style=flat" alt="mehmetfurkansakiz" /> </p>
 
-- 🌱 I’m currently learning **Swift, ios Mobile programming and MacOS.**
+- 🌱 I’m currently learning **Swift**
 
 - 📫 How to reach me **mehmetfurkansakiz@gmail.com**
 
