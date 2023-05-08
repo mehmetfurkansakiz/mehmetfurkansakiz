@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Mehmet Furkan SAKIZ</h1>
-<h3 align="center">A Junior Swift Developer from Turkey. I am not working in a company yet. I'm a developer about to graduate from university. I love self-development and app-development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehmetfurkansakiz&label=Profile%20views&color=0e75b6&style=flat" alt="mehmetfurkansakiz" /> </p>
 
