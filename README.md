@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Mehmet Furkan SAKIZ</h1>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Madimi+One&size=50&duration=3000&pause=100&color=10A1F7&center=true&random=false&width=1435&height=80&lines=Hi+Github%F0%9F%91%8B;I'm+Mehmet+Furkan+Sakız)](https://git.io/typing-svg)
+-------------------------
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehmetfurkansakiz&label=Profile%20views&color=0e75b6&style=flat" alt="mehmetfurkansakiz" /> </p>
 
-- 🌱 I’m currently learning **Swift**
+<img src="https://github.com/mehmetfurkansakiz/mehmetfurkansakiz/assets/62005335/b5ead8c9-1d54-4cd3-9a64-8d6a913a173e" width="240">
 
 - 📫 How to reach me **mehmetfurkansakiz@gmail.com**
 
