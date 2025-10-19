@@ -2,7 +2,7 @@
 -------------------------
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehmetfurkansakiz&label=Profile%20views&color=0e75b6&style=flat" alt="mehmetfurkansakiz" /> </p>
 
-<img src="https://github.com/mehmetfurkansakiz/mehmetfurkansakiz/assets/62005335/b5ead8c9-1d54-4cd3-9a64-8d6a913a173e" width="240">
+<img src="https://github.com/user-attachments/assets/610dfff6-deff-44bf-ac0b-9bbe99b2b780" width="240">
 
 - 📫 How to reach me **mehmetfurkansakiz@gmail.com**
 
